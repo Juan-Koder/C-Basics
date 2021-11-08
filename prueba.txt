@@ -1,3 +1,0 @@
-Hola Prueba desde Linux
-Hola desde OSX
-Hola otra vez desde Linux
