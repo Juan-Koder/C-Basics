@@ -2,7 +2,7 @@
 *
 
 #Ignore all with extensions
-!*.c
+!*.*
 
 # Prerequisites
 *.d
