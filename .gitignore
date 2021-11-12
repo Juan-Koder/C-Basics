@@ -1,5 +1,7 @@
 #Ignore all
-#*
+*/*
+!*/*.c
+!.gitignore
 
 #Ignore all with extensions
 !*.*
