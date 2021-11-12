@@ -1,6 +1,5 @@
 #Ignore all
-*
-!C_HWay
+#*
 
 #Ignore all with extensions
 !*.*
